@@ -39,6 +39,7 @@ rm -rf macaddress_io.apikey
 ## Docker Usage
 Build your image once with API Key
 ```bash
+chmod 755 assets/install_apikey.sh
 chmod 755 build.sh
 ./build.sh
 ```
