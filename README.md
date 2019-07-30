@@ -34,9 +34,9 @@ Use [Git](https://git-scm.com/) clone to clone this repository.
 
 ```git
 
-git clone <this repo url>
+git clone https://github.com/animeshdas/macaddress_io_REST_API_Demo.git
 
-cd <cloned dir>
+cd macaddress_io_REST_API_Demo
 
 ```
 
