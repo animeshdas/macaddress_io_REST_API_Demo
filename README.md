@@ -37,6 +37,11 @@ rm -rf macaddress_io.apikey
 ```
 
 ## Docker Usage
+First change to project directory
+```bash
+cd macaddress_io_REST_API_Demo
+```
+
 Build your image once with API Key
 ```bash
 chmod 755 assets/install_apikey.sh
