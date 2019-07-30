@@ -119,8 +119,11 @@ chmod 755 build.sh
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. You can also drop me an email at _jobs4ani at gmail dot com_
 
 
-# SECURITY
-To secure the API-Key, gnome-keyring along with python-keyring in headless mode (without X), can be used to store the API Key. But this is out of scope for now, due to time constraint.
+## Security
+<span style="color: red">To secure the API-Key, gnome-keyring along with python-keyring in headless mode (without X), can be used to store the API Key. But this is out of scope for now, due to time constraint.</span>
+
+<span style="color: red">:red_circle: Till then, **delete the API key once you are done**, as mentioned above. 
+</span>
 
 
 ## License
